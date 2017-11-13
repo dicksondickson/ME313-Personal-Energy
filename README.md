@@ -1,2 +1,6 @@
 # ME313-Personal-Energy
-ME313
+
+Setup your IDE
+https://learn.adafruit.com/adafruit-feather-m0-adalogger/setup
+
+
